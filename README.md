@@ -1,14 +1,12 @@
-### Hi there 👋
-
-## I am a Master's student at RIT, New York majoring in Data Science with a passion for utilizing data to solve complex problems.As also a graduate teaching assistant at Rochester Institute of Technology, I assist Professor Jim Habermas in teaching and grading the course ISTE 608 Database Design and Implementation, with 25 students. I enjoy helping students learn and apply the concepts and techniques of database design and implementation, using SQL database.
-
-## I am also a data visualization expert, with proficiency in popular Python libraries for creating interactive and aesthetic graphs and charts. I have created multiple data visualizations on Tableau, showcasing my ability to uncover the hidden stories within data and present them in a captivating and meaningful way. You can check out my Tableau profile here: https://public.tableau.com/app/profile/harshitha.b.nagaraj
+# Hi there 👋
 
 ## I am currently pursuing a master's degree in data science at RIT, where I am learning the latest tools and techniques for data analysis, machine learning, and artificial intelligence. I have completed several projects and assignments using Python, R demonstrating my skills in data manipulation, statistical modeling, and machine learning. I also have a certification in Google Data Analytics Professional Course.
 
+## As also a graduate teaching assistant at Rochester Institute of Technology, I assist Professor Jim Habermas in teaching and grading the course ISTE 608 Database Design and Implementation, with 25 students. I enjoy helping students learn and apply the concepts and techniques of database design and implementation, using SQL database.
+
+## I am also a data visualization expert, with proficiency in popular Python libraries for creating interactive and aesthetic graphs and charts. I have created multiple data visualizations on Tableau, showcasing my ability to uncover the hidden stories within data and present them in a captivating and meaningful way. You can check out my Tableau profile here: https://public.tableau.com/app/profile/harshitha.b.nagaraj
+
 ## In addition to my data science skills, I also have experience as a frontend developer, having worked at IPKnack for three months. I developed and maintained web applications using HTML, CSS, JavaScript, and React, following the best practices and standards for web development. I have also completed two Udemy courses on React and web development, enhancing my knowledge and skills in this domain.
-
-
 <!--
 **harshithabnag7/harshithabnag7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
