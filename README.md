@@ -10,6 +10,9 @@
 
 #### I am currently pursuing a Master's degree in data science at RIT, specializing in data analysis, machine learning, and AI. I have practical experience in Python and R through various projects and hold a Google Data Analytics Professional certification. As a graduate teaching assistant, I assist in teaching database design and SQL at RIT. I excel in data visualization, using Python libraries and Tableau to convey insights effectively. Additionally, I have frontend development experience, working with HTML, CSS, JavaScript, and React, further enhancing my skills in this area.
 
+### Random Dev Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### This is a Showcase of My Diverse Data Science Projects.
 
