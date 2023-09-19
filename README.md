@@ -1,4 +1,5 @@
 # Hi there 👋
+![Header](./[banner.png])
 
 ## I am currently pursuing a master's degree in data science at RIT, where I am learning the latest tools and techniques for data analysis, machine learning, and artificial intelligence. I have completed several projects and assignments using Python, R demonstrating my skills in data manipulation, statistical modeling, and machine learning. I also have a certification in Google Data Analytics Professional Course.
 
