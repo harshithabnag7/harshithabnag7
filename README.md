@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=C6D6F7&width=1035&lines=Hello%2C+I+am+Harshitha+B+Nagaraj;I+love+to+extract+Profound+meaning+from+data.;I+enjoy+reading+romcoms+in+my+free+time.;Getting+me+cookies+is+the+quickest+way+to+win+my+heart.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=C6D6F7&width=1035&lines=Hello%2C+I+am+Harshitha+B+Nagaraj+!;I+love+to+extract+Profound+meaning+from+data.;I+enjoy+reading+romcoms+in+my+free+time.;Getting+me+cookies+is+the+quickest+way+to+win+my+heart.)](https://git.io/typing-svg)
 
 
 
