@@ -14,7 +14,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-### This is a Showcase of My Diverse Data Science Projects.
+## Check out the showcase of My Diverse Data Science Projects. 
 
 <!--[![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithabnag7)](https://github.com/harshithabanag7/github-readme-stats) -->
 <!--
