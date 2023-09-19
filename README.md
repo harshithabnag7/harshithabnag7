@@ -1,6 +1,6 @@
 # Hi there 👋
 ![banner](./banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Harshitha+B+Nagaraj;I+Love+to+extract+profound+meaning+from+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Harshitha+B+Nagaraj;Loves+extracting+profound+meaning+from+data)](https://git.io/typing-svg)
 
 
 
