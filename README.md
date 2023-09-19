@@ -1,5 +1,7 @@
 # Hi there 👋
 ![banner](./banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I am Harshitha B Nagaraj;I Love to extract profound  meaning from data.)](https://git.io/typing-svg)
 
