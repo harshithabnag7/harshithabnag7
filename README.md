@@ -9,7 +9,7 @@
 
 
 
-I am currently pursuing a Master's degree in data science at RIT, specializing in data analysis, machine learning, and AI. I have practical experience in Python and R through various projects and hold a Google Data Analytics Professional certification. As a graduate teaching assistant, I am also a Teaching Assistant for graduate level course Database design and Implementation at RIT. I excel in data visualization, using Python libraries and Tableau to convey insights effectively. Additionally, I have frontend development experience, working with HTML, CSS, JavaScript, and React, further enhancing my skills in this area.
+I am currently pursuing a Master's degree in data science at RIT, specializing in data analysis, machine learning, and AI. I have practical experience in Python and R through various projects and hold a Google Data Analytics Professional certification. As a graduate teaching assistant, I also assist Professor in teaching Database design and Implementation and grading assignments and exams of 25 students at RIT. I excel in data visualization, using Python libraries and Tableau to convey insights effectively. Additionally, I have frontend development experience, working with HTML, CSS, JavaScript, and React, further enhancing my skills in this area.
 
  <h2> Check out collection of my visualizations:
 <a href="https://public.tableau.com/app/profile/harshitha.b.nagaraj/vizzes" target="_blank">Visualizations</a></h2>
