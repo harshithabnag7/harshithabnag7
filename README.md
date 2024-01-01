@@ -13,7 +13,7 @@ I am currently pursuing a Master's degree in data science at RIT, specializing i
 
 <h2> Checkout my Medium Blogs!</h2>
 
-[![Harshitha Medium](https://github-readme-medium.vercel.app/?username=harshithabnag7)](https://medium.com/@harshithabnag7)
+[![Harshitha Medium](https://github-readme-medium.vercel.app/?username=harshithabnag7&limit=2&text=green)](https://medium.com/@harshithabnag7)
 
  <h2> Check out collection of my visualizations:
 <a href="https://public.tableau.com/app/profile/harshitha.b.nagaraj/vizzes" target="_blank">Visualizations</a></h2>
