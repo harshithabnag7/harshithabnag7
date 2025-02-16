@@ -9,7 +9,7 @@
 
 
 
-I am currently pursuing a Master's degree in data science at RIT, specializing in data analysis, machine learning, and AI. I have practical experience in Python and R through various projects and hold a Google Data Analytics Professional certification. As a graduate teaching assistant, I also assist Professor in teaching Database design and Implementation and grading assignments and exams of 25 students at RIT. I excel in data visualization, using Python libraries and Tableau to convey insights effectively. Additionally, I have frontend development experience, working with HTML, CSS, JavaScript, and React, further enhancing my skills in this area.
+I’m a Data Science Grad student at RIT, currently a Data Analyst Intern with University Advancement. I’m passionate about research and telling stories with data. With hands-on experience in Python, SQL, Tableau, and cloud platforms, I blend technical skills with a creative approach to data storytelling. Whether cleaning datasets, ensuring data quality, or building dashboards, I aim to make data accessible, insightful, and impactful.
 
 <h2> Checkout my Medium Blogs!</h2>
 
